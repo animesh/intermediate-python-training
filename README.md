@@ -1,5 +1,7 @@
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6619586.svg)](https://doi.org/10.5281/zenodo.6619586)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7233946.svg)](https://doi.org/10.5281/zenodo.7233946)
+
+
 
 
 # Intermediate python courses
@@ -75,4 +77,4 @@ Solutions to the exercises (but not micro-exercises) are provided in the `soluti
 ## Citation
 
 Please cite as:
-Wandrille Duchemin, & Robin Engler. (2022, June 7). Material for the intermediate python SIB-training course. Zenodo. https://doi.org/10.5281/zenodo.6619586
+Wandrille Duchemin, & Robin Engler. (2022, October 21). Material for the intermediate python SIB-training course of October 2022. Zenodo. https://doi.org/10.5281/zenodo.7233946
